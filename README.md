@@ -1,8 +1,8 @@
 homework2
 =========
 
-my_profile
+my_profile \n
 name : Supicha Ungaree
-eail address: num_water@hotmail.com
+email address: num_water@hotmail.com
 pseudonym: oreo
 hobbies: 	play piano
